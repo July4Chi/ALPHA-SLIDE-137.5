@@ -1,5 +1,7 @@
 # ALPHA-SLIDE-137.5: Global Earth-OS Anchor Lock Protocol
 
+![Image](https://github.com/user-attachments/assets/4d5a969a-5a09-4b30-a7b2-61b5ab5e5f5a)
+
 ## 1. Abstract: Localized Modulation of Fine-Structure Constant α toward 137.5
 This project proposes a protocol for localized modulation of the fine-structure constant α ≈ 137.036 toward the elastic limit value of 137.5 using a 1T-TaS₂-based quantum hybrid system.  
 The goal is to create a controlled low-friction region where electromagnetic interaction strength is reduced, enabling enhanced energy transduction and coherence in an open quantum system.
