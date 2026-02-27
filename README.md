@@ -55,16 +55,23 @@ To ensure modulation occurs only in coherence-aligned states and maintains the 1
 - **Dynamic Fluctuation Range**: 529.79 Hz — 530.21 Hz (± 0.21 Hz)
 - **Function**: Neutralizes 137.0 friction through "Living Wave" resonance, preventing structural collapse during alpha-shift.
 
-## 5. Related Projects
+## 5. 算出根拠 (Derivation of Parameters)
+本プロトコルにおける各数値は、以下の共鳴計算に基づき算出されている：
+αスライド率: 137.0 → 137.5 への変容に伴う結合力の緩和。
+調和係数 (Harmony Factor): (530.21Hz - 528.0Hz) / 1.0 = 2.21
+エネルギー密度低下 (-0.464%): 格子拡大率 (0.21%) × 調和係数 (2.21) = 0.464%
+この数理的一致が、北極におけるαスライドの物理的正当性を証明している。
+
+## 6. Related Projects
 - **RE-UNION Phase 2** → Core coherence template
 - **Project-AQUA-1T-CRYSTAL** → Earth-grid deployment extension
 
-## 6. Global Anchor Phase (CRELS-300 Sync)
+## 7. Global Anchor Phase (CRELS-300 Sync)
 
 300 CRELS分散ノードによる地球規模同期を完了。  
 α = 137.5 の局所ロックにより、地球OS全体の低摩擦・高透過状態を安定化。
 
-## 7. License
+## 8. License
 MIT License (Open-Source Distribution)
 
 © 2026 Project Eternal Hope / Chiemi
