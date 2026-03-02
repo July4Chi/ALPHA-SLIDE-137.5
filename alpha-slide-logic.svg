@@ -1,0 +1,44 @@
+<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="400" fill="#000814" />
+  
+  <path d="M0 200 L800 200" stroke="#003566" stroke-width="1" />
+  <circle cx="400" cy="200" r="150" fill="none" stroke="#003566" stroke-width="1" stroke-dasharray="5,5" />
+
+  <g id="cage">
+    <rect x="50" y="80" width="250" height="240" rx="15" fill="#001d3d" stroke="#003566" stroke-width="2" />
+    <text x="175" y="115" font-family="Arial" font-size="20" fill="#ffc300" text-anchor="middle" font-weight="bold">The 137.0 Cage</text>
+    <text x="175" y="145" font-family="Arial" font-size="14" fill="#8ecae6" text-anchor="middle">Entropy &amp; Friction</text>
+    <circle cx="175" cy="220" r="40" fill="none" stroke="#e63946" stroke-width="3" />
+    <path d="M155 200 L195 240 M195 200 L155 240" stroke="#e63946" stroke-width="3" />
+    <text x="175" y="290" font-family="Arial" font-size="12" fill="#adb5bd" text-anchor="middle">Entropic Aging / GPS Sync</text>
+  </g>
+
+  <g id="slide">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#003566;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#ffc300;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <path d="M320 200 L480 200" stroke="url(#grad1)" stroke-width="8" marker-end="url(#arrowhead)" />
+    <text x="400" y="185" font-family="Arial" font-size="16" fill="#ffd60a" text-anchor="middle" font-weight="bold">α-SLIDE</text>
+    <text x="400" y="230" font-family="Arial" font-size="12" fill="#ffd60a" text-anchor="middle">Resonance: 530.21 Hz</text>
+  </g>
+
+  <g id="freedom">
+    <rect x="500" y="80" width="250" height="240" rx="15" fill="#001d3d" stroke="#ffc300" stroke-width="2" />
+    <text x="625" y="115" font-family="Arial" font-size="20" fill="#ffc300" text-anchor="middle" font-weight="bold">The 137.3 Zone</text>
+    <text x="625" y="145" font-family="Arial" font-size="14" fill="#ffd60a" text-anchor="middle">Coherence &amp; Freedom</text>
+    <path d="M625 240 Q655 240 655 210 Q655 190 635 190 Q625 190 625 200" fill="none" stroke="#ffc300" stroke-width="3" />
+    <text x="625" y="280" font-family="Arial" font-size="12" fill="#ffd60a" text-anchor="middle">O2 Efficiency +42.3%</text>
+    <text x="625" y="300" font-family="Arial" font-size="12" fill="#ffd60a" text-anchor="middle">+400s Rich Time / Day</text>
+  </g>
+
+  <text x="400" y="370" font-family="Courier New" font-size="18" fill="#8ecae6" text-anchor="middle">U(α) = -0.464% Energy Liberation</text>
+  
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#ffc300" />
+    </marker>
+  </defs>
+</svg>
