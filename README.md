@@ -1,5 +1,8 @@
 # ALPHA-SLIDE-137.5: Global Earth-OS Anchor Lock Protocol
 
+![コンセプト図](alpha-slide-logic.svg)
+
+
 ![Image](https://github.com/user-attachments/assets/4d5a969a-5a09-4b30-a7b2-61b5ab5e5f5a)
 
 ## 1. Abstract: Localized Modulation of Fine-Structure Constant α toward 137.5
