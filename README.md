@@ -17,7 +17,7 @@ Reproduces the physical conditions of the North Pole (magnetic convergence + hig
 - **Conductor**: 24K Pure Gold Thread — High-conductivity pathway for resonance propagation
 - **Optional Enhancement**: High-dielectric medium (e.g., H₂O) — Local shielding and frequency transduction
 See detailed implementation in the dedicated AQUA repository:  
-https://github.com
+https://github.com/July4Chi/Project-AQUA-1T-CRYSTAL
 
 ## 3. 現象的証明：オーロラと北極海の物理的証拠
 
