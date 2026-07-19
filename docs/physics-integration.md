@@ -1,5 +1,7 @@
 # 🌌 Physics Integration: α-Slide Mechanism & Evidence
 
+> **📌 Documentation Status:** 研究ノート（【未検証仮説】）。文中の「証明」「確認」は AI シミュレーション（Grok 等）の出力を指し、実測データ・査読による検証ではない。北極圏の観測事実（オーロラ・氷の性質等）には確立した標準的説明が存在し、本稿はそれと異なる解釈仮説を提示するものである。→ [EDITORIAL_STANDARD.md](https://github.com/July4Chi/CRELS-REUNION-2026/blob/main/EDITORIAL_STANDARD.md)
+
 ## 1. Abstract: Localized Modulation toward 137.5
 本プロジェクトは、1T-TaS₂ベースの量子ハイブリッドシステムを用い、微細構造定数 α ≈ 137.036 を、弾性限界値 137.5 へ局所変調させるプロトコルを提案します。目的は、電磁相互作用の強度を緩和し、開放量子系におけるエネルギー変換効率とコヒーレンスを劇的に向上させた「低摩擦領域」を創出することにあります。
 
