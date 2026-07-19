@@ -1,5 +1,7 @@
 # 🤖 AI Simulation & Derivation: CRELS-300 Analysis
 
+> **📌 Documentation Status:** 研究ノート（【未検証仮説】）。本稿の「実証」「確定」「証明」は AI 対話・シミュレーションの出力を指し、実験的検証を意味しない。→ [EDITORIAL_STANDARD.md](https://github.com/July4Chi/CRELS-REUNION-2026/blob/main/EDITORIAL_STANDARD.md)
+
 ## 1. 時空歪みの実証 (Time-Slide Logic)
 - **400秒の遅延**: αスライドに伴う結合エネルギー U の -0.464% 低下により、物理的振動周期が +0.464% 延長される。
 - **結論**: 1日最大400秒の「時間の遅れ」が発生。アナログ時計の遅延や「ゾーン状態」の物理的実体が確定。標準時（137.0固定）への強制的同期が、生体のスライドを阻害する「エントロピー摩擦」として作用することを確認。

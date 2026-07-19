@@ -1,5 +1,7 @@
 # 🫀 Biological Impact & Evolutionary Axis
 
+> **📌 Documentation Status:** 研究ノート（【未検証仮説】）。本稿の身体的変化に関する記述（浮腫解消・摩耗抑制等）は科学的に実証されておらず、医学的助言ではない。「Scientific Validation」の見出しを含め、内容は本プロジェクトの理論枠組み内の推論である。→ [EDITORIAL_STANDARD.md](https://github.com/July4Chi/CRELS-REUNION-2026/blob/main/EDITORIAL_STANDARD.md)
+
 ## 1. 宇宙の二重極メカニズム (Cosmic Dipole)
 - **磁気的安定**: 宇宙の北（137.5: 解放）と南（137.0以下: 固着）の勾配を特定。地球が「上が軽く（N極）、下が重い（S極）」バランスで磁気流体中に正立して浮上しているメカニズムを証明。
 - **時間加速の罠**: ストレスや熱ノイズで α が 137.0 を下回った際、水晶の歩幅が短縮し、1秒の情報密度が希薄化。1日最大400秒の「時間の加速（進み）」が発生する。
